@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "mission": "Mission & Values",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "For public and private organizations",
+    "title": "Business Consultancy and Technical Engineering Projects",
+    "subtitle": "We help municipalities, industries, hospitality and real estate developers deliver projects with technical excellence and a direct, professional approach.",
+    "cta": "Explore Services",
+    "ctaSecondary": "Get in Touch"
+  },
+  "about": {
+    "label": "About Us",
+    "title": "Experience that turns projects into results",
+    "intro": "Intensebinary is an electrical engineering and consulting firm based in Portugal. Our team of seasoned professionals has been in the industry since 1986, delivering exceptional services to clients in both the public and private sectors.",
+    "history": "While our expertise spans over 35 years, the company was formally established in 2019 — combining technical tradition with modern solutions to meet the ever-changing needs of our clients.",
+    "specialization": "We specialize in electrical engineering projects: design, installation and maintenance of electrical systems for buildings, infrastructures and industrial facilities. Every solution is tailor-made, with a focus on quality and professionalism.",
+    "consulting": "Beyond engineering, we offer customized business and market consulting — strategic insights and practical solutions that help companies grow in their industries.",
+    "highlight1": "35+ years of technical experience",
+    "highlight2": "Tailor-made solutions for every client",
+    "highlight3": "Public and private sector"
+  },
+  "mission": {
+    "label": "Mission, Vision & Values",
+    "missionTitle": "Mission",
+    "missionText": "To provide exceptional quality engineering and consulting services tailored to our clients' specific needs, with loyalty, integrity and ethical principles — fair prices and a direct, professional approach.",
+    "visionTitle": "Vision",
+    "visionText": "To be a regional reference in technical consulting and engineering, with a highly qualified team committed to the company's values — the preferred choice for lighting solutions and developments for local public entities and business owners.",
+    "valuesTitle": "Values",
+    "values": {
+      "consistency": {
+        "title": "Consistency",
+        "desc": "Profitability and sustainable growth to ensure the company's longevity and benefits for clients and employees."
+      },
+      "wellness": {
+        "title": "Wellness",
+        "desc": "We value the health and well-being of employees and clients, promoting safe practices in all activities."
+      },
+      "loyalty": {
+        "title": "Loyalty",
+        "desc": "Lasting relationships built on mutual trust and respect with clients and team members."
+      },
+      "honor": {
+        "title": "Honor",
+        "desc": "Integrity and ethical principles in all activities, respecting laws, regulations and societal values."
+      },
+      "beauty": {
+        "title": "Aesthetics",
+        "desc": "Design and aesthetics as fundamental elements in engineering and consulting, with excellence in every project."
+      }
+    }
+  },
+  "services": {
+    "label": "Service Packages",
+    "title": "Structured solutions for every phase of your project",
+    "subtitle": "We've organized our services into clear packages — from initial diagnosis to execution — so you know exactly what you receive at each stage.",
+    "modelsLabel": "Engagement Models",
+    "models": {
+      "diagnostic": {
+        "name": "Diagnostic",
+        "tagline": "Starting point",
+        "desc": "Technical and economic analysis of your needs, with a clear roadmap for next steps."
+      },
+      "project": {
+        "name": "Full Project",
+        "tagline": "From concept to delivery",
+        "desc": "Complete project development including studies, technical design and construction oversight."
+      },
+      "support": {
+        "name": "Ongoing Support",
+        "tagline": "Continuous partnership",
+        "desc": "Technical support and strategic consulting over time to ensure sustainable results."
+      }
+    },
+    "packages": {
+      "engineering": {
+        "title": "Electrical Engineering",
+        "subtitle": "Our core competency",
+        "for": "Municipalities, industry, hospitality and real estate",
+        "items": [
+          "Electrical networks, substations and public lighting design",
+          "Control, automation and SCADA supervision systems",
+          "Electronic security: CCTV, access control and alarms",
+          "Electrical installations in buildings and infrastructure",
+          "Construction inspection and supervision"
+        ]
+      },
+      "lighting": {
+        "title": "Lighting & Energy Efficiency",
+        "subtitle": "Our reference specialty",
+        "for": "Public, commercial and industrial spaces",
+        "items": [
+          "Architectural and functional lighting studies",
+          "LED retrofit and energy optimization",
+          "Road, square and urban space lighting",
+          "Cost analysis and energy investment returns",
+          "Regulatory compliance and energy certification"
+        ]
+      },
+      "consulting": {
+        "title": "Technical Consulting",
+        "subtitle": "Informed decisions, reduced risks",
+        "for": "Developers, project managers and investors",
+        "items": [
+          "Technical and economic feasibility studies",
+          "Technical alternatives analysis and expert opinions",
+          "Specialty project development and review",
+          "Multidisciplinary project management and coordination",
+          "Technical due diligence on real estate assets"
+        ]
+      },
+      "business": {
+        "title": "Business & Market Consulting",
+        "subtitle": "Strategic growth and market access",
+        "for": "SMEs, startups and expanding companies",
+        "items": [
+          "Business opportunity identification",
+          "Market research and competitive analysis",
+          "Internationalization and partnership support",
+          "Commercial strategy and brand positioning",
+          "Qualified industry contact network"
+        ]
+      },
+      "realestate": {
+        "title": "Real Estate & Infrastructure",
+        "subtitle": "From land to keys in hand",
+        "for": "Private investors and regional developers",
+        "items": [
+          "Civil construction project consulting",
+          "Technical and economic feasibility of developments",
+          "Electrical and electronic installations design",
+          "Construction technical oversight and quality",
+          "Licensing and regulatory compliance"
+        ]
+      },
+      "aviation": {
+        "title": "Aviation & Transport",
+        "subtitle": "Specialized experience",
+        "for": "Operators and investors in the air transport sector",
+        "items": [
+          "Consulting on air transport company creation",
+          "Operational and financial viability analysis",
+          "Sector technical and regulatory management",
+          "Market strategy and route development",
+          "Certification and licensing process support"
+        ]
+      }
+    },
+    "cta": "Request Proposal",
+    "includes": "Includes"
+  },
+  "stats": {
+    "projects": "Projects",
+    "markets": "Markets",
+    "years": "Years of Experience",
+    "clients": "Satisfied Clients"
+  },
+  "cta": {
+    "title": "Ready to move forward with your project?",
+    "subtitle": "Tell us your needs — we'll respond with a clear, personalized approach.",
+    "button": "Send Message"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's talk",
+    "email": "info@intensebinary.pt",
+    "phone": "+351 2500 269",
+    "location": "Lisbon, Portugal",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "service": "Service of interest",
+      "message": "Message",
+      "send": "Send",
+      "selectService": "Select a service"
+    }
+  },
+  "footer": {
+    "tagline": "Consulting & Technical Engineering",
+    "rights": "All rights reserved.",
+    "links": "Quick Links"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre Nós",
+    "services": "Serviços",
+    "mission": "Missão & Valores",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "badge": "Para organizações públicas e privadas",
+    "title": "Consultoria Empresarial e Projetos de Engenharia Técnica",
+    "subtitle": "Ajudamos municípios, indústrias, hotelaria e promotores imobiliários a concretizar projetos com excelência técnica e abordagem direta.",
+    "cta": "Conhecer Serviços",
+    "ctaSecondary": "Fale Connosco"
+  },
+  "about": {
+    "label": "Sobre Nós",
+    "title": "Experiência que transforma projetos em resultados",
+    "intro": "A Intensebinary é uma empresa de engenharia eletrotécnica e consultoria sediada em Portugal. A nossa equipa de profissionais experientes atua no sector desde 1986, prestando serviços de excelência a clientes do sector público e privado.",
+    "history": "Embora a nossa experiência acumule mais de 35 anos, a empresa foi formalizada em 2019 — combinando tradição técnica com soluções modernas para responder às necessidades em constante evolução dos nossos clientes.",
+    "specialization": "Especializamo-nos em projetos de engenharia eletrotécnica: conceção, instalação e manutenção de sistemas elétricos para edifícios, infraestruturas e instalações industriais. Cada solução é desenhada à medida, com foco na qualidade e no profissionalismo.",
+    "consulting": "Para além da engenharia, oferecemos consultoria empresarial e de mercados personalizada — insights estratégicos e soluções práticas que ajudam as empresas a crescer nos seus sectores.",
+    "highlight1": "35+ anos de experiência técnica",
+    "highlight2": "Soluções à medida para cada cliente",
+    "highlight3": "Setor público e privado"
+  },
+  "mission": {
+    "label": "Missão, Visão & Valores",
+    "missionTitle": "Missão",
+    "missionText": "Prestar serviços de engenharia e consultoria de qualidade excecional, adaptados às necessidades específicas dos nossos clientes, com lealdade, integridade e princípios éticos — preços justos e abordagem direta e profissional.",
+    "visionTitle": "Visão",
+    "visionText": "Ser referência regional em consultoria e engenharia técnica, com uma equipa altamente qualificada e comprometida com os valores da empresa — preferência em soluções de iluminação e desenvolvimentos para entidades públicas locais e empresários.",
+    "valuesTitle": "Valores",
+    "values": {
+      "consistency": {
+        "title": "Consistência",
+        "desc": "Rentabilidade e crescimento sustentável para garantir a longevidade da empresa e benefícios para clientes e colaboradores."
+      },
+      "wellness": {
+        "title": "Bem-estar",
+        "desc": "Valorizamos a saúde e o bem-estar de colaboradores e clientes, promovendo práticas seguras em todas as atividades."
+      },
+      "loyalty": {
+        "title": "Lealdade",
+        "desc": "Relações duradouras baseadas em confiança mútua e respeito com clientes e equipa."
+      },
+      "honor": {
+        "title": "Honra",
+        "desc": "Integridade e princípios éticos em todas as atividades, respeitando leis, normas e valores da sociedade."
+      },
+      "beauty": {
+        "title": "Estética",
+        "desc": "Design e estética como elementos fundamentais na engenharia e consultoria, com excelência em cada projeto."
+      }
+    }
+  },
+  "services": {
+    "label": "Pacotes de Serviços",
+    "title": "Soluções estruturadas para cada fase do seu projeto",
+    "subtitle": "Organizámos os nossos serviços em pacotes claros — do diagnóstico inicial à execução — para que saiba exactamente o que recebe em cada etapa.",
+    "modelsLabel": "Modelos de Engajamento",
+    "models": {
+      "diagnostic": {
+        "name": "Diagnóstico",
+        "tagline": "Ponto de partida",
+        "desc": "Análise técnica e económica das suas necessidades, com roadmap claro de próximos passos."
+      },
+      "project": {
+        "name": "Projeto Completo",
+        "tagline": "Da conceção à entrega",
+        "desc": "Desenvolvimento integral do projeto, incluindo estudos, desenho técnico e acompanhamento de obra."
+      },
+      "support": {
+        "name": "Acompanhamento",
+        "tagline": "Parceria contínua",
+        "desc": "Suporte técnico e consultoria estratégica ao longo do tempo para garantir resultados sustentáveis."
+      }
+    },
+    "packages": {
+      "engineering": {
+        "title": "Engenharia Eletrotécnica",
+        "subtitle": "O nosso núcleo de competência",
+        "for": "Municípios, indústria, hotelaria e imobiliário",
+        "items": [
+          "Projeto de redes elétricas, subestações e iluminação pública",
+          "Sistemas de controlo, automação e supervisão (SCADA)",
+          "Segurança electrónica: CCTV, controlo de acessos e alarmes",
+          "Instalações eléctricas em edifícios e infraestruturas",
+          "Inspecção e fiscalização de obras"
+        ]
+      },
+      "lighting": {
+        "title": "Iluminação & Eficiência Energética",
+        "subtitle": "A nossa especialidade de referência",
+        "for": "Espaços públicos, comerciais e industriais",
+        "items": [
+          "Estudos de iluminação arquitectónica e funcional",
+          "Retrofit LED e optimização energética",
+          "Iluminação de vias, praças e espaços urbanos",
+          "Análise de custos e retorno do investimento energético",
+          "Conformidade normativa e certificação energética"
+        ]
+      },
+      "consulting": {
+        "title": "Consultoria Técnica",
+        "subtitle": "Decisões informadas, riscos reduzidos",
+        "for": "Promotores, gestores de projeto e investidores",
+        "items": [
+          "Estudos de viabilidade técnica e económica",
+          "Análise de alternativas técnicas e pareceres",
+          "Elaboração e revisão de projetos de especialidade",
+          "Gestão e coordenação de projectos multidisciplinares",
+          "Due diligence técnica em activos imobiliários"
+        ]
+      },
+      "business": {
+        "title": "Consultoria de Negócios & Mercados",
+        "subtitle": "Crescimento estratégico e acesso a mercados",
+        "for": "PME, startups e empresas em expansão",
+        "items": [
+          "Identificação de oportunidades de negócio",
+          "Pesquisa de mercado e análise competitiva",
+          "Apoio à internacionalização e parcerias",
+          "Estratégia comercial e posicionamento de marca",
+          "Rede de contactos qualificados no sector"
+        ]
+      },
+      "realestate": {
+        "title": "Imobiliário & Infraestruturas",
+        "subtitle": "Do terreno à entrega das chaves",
+        "for": "Investidores privados e promotores regionais",
+        "items": [
+          "Consultoria em projectos de construção civil",
+          "Viabilidade técnica e económica de empreendimentos",
+          "Projecto de instalações eléctricas e electrónicas",
+          "Acompanhamento técnico de obra e qualidade",
+          "Licenciamento e conformidade regulatória"
+        ]
+      },
+      "aviation": {
+        "title": "Aviação & Transportes",
+        "subtitle": "Experiência especializada",
+        "for": "Operadores e investidores no sector aéreo",
+        "items": [
+          "Consultoria na criação de empresas de transporte aéreo",
+          "Análise de viabilidade operacional e financeira",
+          "Gestão técnica e regulamentar do sector",
+          "Estratégia de mercado e desenvolvimento de rotas",
+          "Apoio em processos de certificação e licenciamento"
+        ]
+      }
+    },
+    "cta": "Solicitar Proposta",
+    "includes": "Inclui"
+  },
+  "stats": {
+    "projects": "Projetos",
+    "markets": "Mercados",
+    "years": "Anos de Experiência",
+    "clients": "Clientes Satisfeitos"
+  },
+  "cta": {
+    "title": "Pronto para avançar com o seu projeto?",
+    "subtitle": "Conte-nos as suas necessidades — respondemos com uma abordagem clara e personalizada.",
+    "button": "Enviar Mensagem"
+  },
+  "contact": {
+    "label": "Contacto",
+    "title": "Vamos conversar",
+    "email": "info@intensebinary.pt",
+    "phone": "+351 2500 269",
+    "location": "Lisboa, Portugal",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "company": "Empresa",
+      "service": "Serviço de interesse",
+      "message": "Mensagem",
+      "send": "Enviar",
+      "selectService": "Seleccionar serviço"
+    }
+  },
+  "footer": {
+    "tagline": "Consultoria & Engenharia Técnica",
+    "rights": "Todos os direitos reservados.",
+    "links": "Links Rápidos"
+  }
+}
