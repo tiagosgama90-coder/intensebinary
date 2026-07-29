@@ -117,3 +117,15 @@ chmod +x deploy/deploy.sh
 npm run dev
 # Abrir http://localhost:5173
 ```
+
+## Alojar num NAS (Synology, QNAP, etc.)
+
+Guia completo em **[deploy/NAS.md](deploy/NAS.md)**.
+
+Resumo:
+1. `npm run build` no PC
+2. Copiar conteúdo de `dist/` para pasta `web` do NAS
+3. Activar **Web Station** (Synology) ou **Docker** com `docker-compose.yml`
+4. Certificado SSL no painel do NAS
+5. Router: reencaminhar portas 80/443 para o NAS
+6. DNS: registo A → IP público
